@@ -36,12 +36,28 @@
 
 ### 功能示意图
 
+![输入图片说明](img/image.png)
 
+![输入图片说明](img/image1.png)
 
 ### 项目效果截图
-       
-
-
+![输入图片说明](img/image11.png)
+![输入图片说明](img/image12.png)
+![输入图片说明](img/image13.png)
+![输入图片说明](img/image14.png)
+![输入图片说明](img/image15.png)
+![输入图片说明](img/image222.png)
+![输入图片说明](img/image16.png)
+![输入图片说明](img/image17.png)
+![输入图片说明](img/image18.png)
+![输入图片说明](img/image19.png)
+![输入图片说明](img/image21.png)
+![输入图片说明](img/image22.png)
+![输入图片说明](img/image24.png)
+![输入图片说明](img/image25.png)
+![输入图片说明](img/image27.png)
+![输入图片说明](img/image44.png)
+![输入图片说明](img/imagex.png)
 #### 如有疑问，欢迎骚扰联系我鸭： 
 #### 俺的微信:  cclinux0730
 
